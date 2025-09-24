@@ -13,6 +13,9 @@ The project is designed to showcase how to handle drag-and-drop gestures, provid
 ## 📱 App Preview
 
 Here is a preview of the color-matching game in action.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/949e5c46-134c-4fab-aaef-5721257f69ed" alt="App Demo GIF" width="250" />
+</p>
 
 -----
 
