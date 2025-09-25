@@ -60,11 +60,11 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
+    git clone https://github.com/ahmedjalambo-dev/interactive_physics_widget_demo
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd <your-project-directory>
+    cd interactive_physics_widget_demo
     ```
 3.  **Install dependencies:**
     ```sh
